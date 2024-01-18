@@ -1,3 +1,6 @@
+# This script will export all tenable.io assets (with properties) to a file
+# Simply update the access key, secret and output file placeholders to run
+
 import sys
 import requests
 import json
